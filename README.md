@@ -1,0 +1,1 @@
+# gera_senha_aleatoria
